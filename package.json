@@ -1,8 +1,8 @@
 {
-  "name": "@fchoi1/github-pkg-demo",
+  "name": "testingasadsadgithub-pkg-demo",
   "repository": {
     "url": "git://github.com/fchoi1/github-pkg-demo.git"
-}
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
